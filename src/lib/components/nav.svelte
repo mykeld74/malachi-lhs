@@ -102,6 +102,7 @@
 	}
 	li {
 		text-decoration: none;
+		font-size: clamp(16px, 2vw, 24px);
 	}
 	nav {
 		width: 100%;
