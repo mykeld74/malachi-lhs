@@ -20,6 +20,9 @@
 		<li>Dominance of one religion was almost impossible</li>
 	</ul>
 	<h2>Political Factors</h2>
+	<ul>
+		<li>Governed by the King in Spain</li>
+	</ul>
 
 	<h2>Environmental</h2>
 	<ul>

@@ -34,6 +34,9 @@
 				<li transition:fly={{ x: 300, y: 200, duration: 250, delay: delayInterval * 4 }}>
 					<a href="/southern">Southern Colonies</a>
 				</li>
+				<li transition:fly={{ x: 300, y: 200, duration: 250, delay: delayInterval * 4 }}>
+					<a href="/sources">Sources</a>
+				</li>
 			</ul>
 		</nav>
 	</div>
